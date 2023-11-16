@@ -1,4 +1,4 @@
-### Hi iam Mohamad Mansor
+### Hi I am Mohamad Mansor
 
 <!--
 **mohamad-mansor/mohamad-mansor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
